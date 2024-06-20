@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: mysql-externalname-service
+spec:
+  type: ExternalName
+  externalName: 
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: mongodb-externalname-service
+spec:
+  type: ExternalName
+  externalName: 
