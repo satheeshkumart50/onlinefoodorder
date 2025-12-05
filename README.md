@@ -13,6 +13,7 @@ Table of Contents
 Overview
 
 The Online Food Ordering application is designed to provide a seamless and scalable solution for managing food orders. The application is broken down into several microservices, each responsible for a specific functionality.
+
 Microservices
 
 The following microservices are part of this application:
